@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+:root{
+    --primary : #5E3BEE;
+}
+.btn-purple{
+    border: 1px solid  var(--primary);
+    color: var(--primary);
+}
+.text{
+    
+    color: #5E3BEE;
+}
